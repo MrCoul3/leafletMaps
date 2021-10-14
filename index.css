@@ -1,0 +1,17 @@
+#mapid {
+    height: 180px;
+}
+
+#service-panel {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.add-marker {
+    margin:  0 20px;
+}
+
+button {
+    margin:  0 5px;
+}
